@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1140-stone-game-ii](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/1140-stone-game-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
