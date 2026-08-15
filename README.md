@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1140-stone-game-ii](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0001-two-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
