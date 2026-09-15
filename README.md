@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1140-stone-game-ii](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ramya-rastogi/Leetcode-Questions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
